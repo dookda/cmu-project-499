@@ -1,0 +1,19 @@
+{
+  "name": "cmu-project-499",
+  "version": "1.0.0",
+  "description": "499 project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookda/cmu-project-499.git"
+  },
+  "author": "sakda homhuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dookda/cmu-project-499/issues"
+  },
+  "homepage": "https://github.com/dookda/cmu-project-499#readme"
+}
